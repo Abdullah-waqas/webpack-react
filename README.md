@@ -25,3 +25,7 @@ or
 ```bash
 npm run test:watch
 ```
+##Demo
+
+!["List"](https://farm66.staticflickr.com/65535/52580252445_7704921c5b_b.jpg)
+!["Details"](https://farm66.staticflickr.com/65535/52579347882_286cdb7641_b.jpg)
